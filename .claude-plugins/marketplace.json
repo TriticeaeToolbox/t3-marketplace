@@ -1,0 +1,22 @@
+{
+  "name": "t3-marketplace",
+  "description": "A collection of T3 Claude Code plugins",
+  "owner": {
+    "name": "The Triticeae Toolbox"
+  },
+  "plugins": [
+    {
+      "name": "generate-breedbase-templates",
+      "description": "Used to convert breeder data to breedbase upload templates",
+      "author": {
+        "name": "David Waring",
+        "email": "djw64@cornell.edu"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/TriticeaeToolbox/generate-breedbase-templates-plugin.git"
+      },
+      "homepage": "https://github.com/TriticeaeToolbox/generate-breedbase-templates-plugin"
+    }
+  ]
+}
