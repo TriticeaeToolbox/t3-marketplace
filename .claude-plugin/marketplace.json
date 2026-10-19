@@ -17,6 +17,19 @@
         "url": "https://github.com/TriticeaeToolbox/generate-breedbase-templates-plugin.git"
       },
       "homepage": "https://github.com/TriticeaeToolbox/generate-breedbase-templates-plugin"
+    },
+    {
+      "name": "generate-mla-uploads",
+      "description": "Used to convert breeder data to Major Locus Alleles upload templates",
+      "author": {
+        "name": "David Waring",
+        "email": "djw64@cornell.edu"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/TriticeaeToolbox/generate-mla-uploads-plugin.git"
+      },
+      "homepage": "https://github.com/TriticeaeToolbox/generate-mla-uploads-plugin"
     }
   ]
 }
